@@ -59,6 +59,12 @@ Os exercícios vão desde comandos básicos com LEDs até projetos com sensores,
 
 **Prática 01 -** ``Piscar LED``
 
+**Prática 02 -** ``Semáforo simples``
+
+**Prática 03 -** ``Anel Sequencial de LEDs``
+
+**Prática 04 -** ``Semáforo melhorado``
+
 
 Atualmente atualizando os dias conforme a prática.
 
